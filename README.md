@@ -4,6 +4,7 @@ Programación en C ,Clase 03  funciones
   -1 crear una carpeta
   
   -2 clonar el repositorio propio en esa carpeta
+ ( git clone )
   
   -3 ingresar a la carpeta clonada
   
